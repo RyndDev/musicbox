@@ -2,7 +2,7 @@
 
 MusicBox is an open-source music player built on Next.js that allows you to play MP3 files and stream tracks from YouTube. With features like playlists, favorites, real-time listening with PeerJS, YouTube video playback, search functionality, and robust track organization, MusicBox provides a full-featured music player experience.
 
-Crafted with <3 by [@delimister](https://delimister.com) a.k.a @monokaijs
+
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/monokaijs/musicbox.git
+   git clone https://github.com/RyndDev/musicbox.git
    ```
 
 2. Navigate to the project directory:
